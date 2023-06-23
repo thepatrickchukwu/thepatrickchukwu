@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @thepatrickchukwu
 - 👀 I’m interested in .Software Engineering, 
 - 🌱 I’m currently learning frontend Development
-- 💞️ I’m looking to collaborate on projects around frontend and 
+- 💞️ I’m looking to collaborate on projects around frontend and software engineering
 - 📫 How to reach me :
-- mail: thepatrickchukwu2gmail.com
+- mail: thepatrickchukwu@gmail.com
 - linkedin: patrick chukwu
 - twitter: thepatrickchukwu
 
